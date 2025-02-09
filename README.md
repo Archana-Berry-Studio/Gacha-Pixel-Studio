@@ -3,7 +3,7 @@
 Selamat datang di **Gacha Pixel Studio** (GPS)! 🎉  
 Ini adalah **game fanmade** yang menyenangkan di mana kamu bisa **mendesain karakter Gacha** dengan gaya **pixel art** yang keren! 🌟  
 
-!(Gacha Pixel Studio)[archanaberry/icon.png]
+![Gacha Pixel Studio](archanaberry/icon.png)
 
 Gacha Pixel Studio menggunakan **HTML5** dan **CanvasJS**, jadi kamu bisa main di **browser** atau mengubahnya menjadi **APK** menggunakan Kotlin!, atau juga bisa diubah ke aplikasi windows, apple, linux!📱
 
