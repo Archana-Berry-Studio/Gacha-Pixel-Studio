@@ -1,4 +1,5 @@
 # 🎮 **Gacha Pixel Studio (GPS)** ✨
+* versi 0.0.0.1_alpha
 
 Selamat datang di **Gacha Pixel Studio** (GPS)! 🎉  
 Ini adalah **game fanmade** yang menyenangkan di mana kamu bisa **mendesain karakter Gacha** dengan gaya **pixel art** yang keren! 🌟  
